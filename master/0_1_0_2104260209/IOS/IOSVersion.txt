@@ -1,0 +1,1 @@
+{"ForceUpdateGame":false,"LatestGameVersion":"0.1.0","InternalGameVersion":0,"InternalResourceVersion":2104260209,"UpdatePrefixUri":"https://longshilin.com/RunningRes/master/0_1_0_2104260209/IOS","VersionListLength":7049,"VersionListHashCode":554652541,"VersionListZipLength":2950,"VersionListZipHashCode":-1136375849}
